@@ -10,21 +10,20 @@ Kaggle Competition: Foursquare - Location Matching
 - Data is comprised of over 1.5 million entries of places for hundred of thousands of Points-of-Interest (POIs) around the world.
 - For the competition, there are 3 different dataset provided which are train.csv, pairs.csv
 - Train.csv, comprised of 11 attributes such as:
-- Name, latitude, longitude, address,etc
+    -  Name, latitude, longitude, address,etc
 - Test.csv (for submission)
-- For testing (does not contain POI)
+    - For testing (does not contain POI)
 
 
 # Feature Engineering/Extraction
 - Implementation of Feature Engineering
-- - Using pre existing knowledge to select and transform the most relevant features from raw data
+    - Using pre existing knowledge to select and transform the most relevant features from raw data
 - Feature Selection
-- - Improves machine learning process and predictive power by selecting important features and eliminating redundant and irrelevant features
-- - Example of such data (Missing values, low variance, Highly correlated features)
+    - Improves machine learning process and predictive power by selecting important features and eliminating redundant and irrelevant features
+    - Example of such data (Missing values, low variance, Highly correlated features)
 
 
-Example of such data
-Missing values, low variance, Highly correlated features
+
 
 
 # Model Explanation
