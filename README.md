@@ -33,3 +33,4 @@ Advantages of LGBM:
 - Lower memory usage
 - Improved accuracy
 - Capable of handling large-scale data
+![Model summary](/img/lgbm.png)
